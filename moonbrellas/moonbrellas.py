@@ -36,7 +36,7 @@ def replace_questionmark(x, y, s):  # CJ?CC?  C?J
                 adjusted_cost += 0 # insert C
             if s[len(s)-1] == "?" and s[len(s)-2] == "J":
                 adjusted_cost += 0  # insert J
-            if i < len(s)-2:
+            if i <= len(s)-2:
               if s[i - 1] == "J" and s[i + 1] == "J":
                 adjusted_cost += 0
               elif s[i - 1] == "C" and s[i + 1] == "C":
@@ -50,7 +50,7 @@ def replace_questionmark(x, y, s):  # CJ?CC?  C?J
 
 
 def calculate_cost(x, y, s, case_no, adjusted_cost):
-    cost = 0 + adjusted_cost[i]
+    cost = 0 + adjusted_cost
     for i in range(len(s) - 1):
         if s[i] == "C" and s[i + 1] == "J":
             cost += x
