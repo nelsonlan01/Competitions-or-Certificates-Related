@@ -79,3 +79,13 @@ FU w/ Ordered Product on GFS and ECMWF Model
 - [lower] 850 hpa & wind
 - [lower] MSLP & 10m mean
 - [upper] X-Section
+
+
+==================
+20250719 0220 HKT
+
+- T1 was issued at 2:20 a.m.
+
+- Recommended keep monitor Q6H after noon.
+
+==================
