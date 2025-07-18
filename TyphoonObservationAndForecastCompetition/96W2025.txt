@@ -23,3 +23,33 @@ Low System 96W(2025) Monitor
 Casted Implies:
 [ ] At Certain, T1 would hoist at 1800 to 2000 on Friday 18 Jul 2025.
 ==================
+
+20250718 1100 HKT
+-----------------
+- Location : 17.9N 123.4E
+- Max Centre Winds: 65 km/h
+- Generally NW direction
+- Min Pressure: 990
+
+20250718 1315 HKT
+-----------------
+FU w/ Ordered Product on GFS and ECMWF Model
+- [lower] 850 hpa & wind
+- [lower] MSLP & 10m mean
+- MSLP & Precip
+- [upper] X-Section
+- [upper] IR (Simulated)
+- Sea Temeture
+- Wave energy, height
+
+X-Section implies:
+- Noted Shear is strong in current position
+- Noted Potential Temp (K) with wind sheared result in forcast 60 hours result.
+
+- Sea Temp 31C
+
+[ ] At Certain, T3 hoist at late on 19 Jul 2025.
+[ ] At 45%, T8NE, then T8SE (Most likely) / SW (Proper, but depends of traval of speed) at mid night, early 20 Jul. 
+
+- FU @ 20250718 1900 HKT
+==================
