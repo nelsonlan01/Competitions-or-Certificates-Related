@@ -1,4 +1,4 @@
-Low System 96W(2025) Monitor
+Low System 96W(2025) / 09W WIPHA 2025 Monitor
 ---
 
 20250716 HKT 1200
@@ -55,3 +55,27 @@ BTW, rainstorm trigger by high temp is occured today 1115, but not collated to 9
 
 - FU @ 20250718 1900 HKT
 ==================
+
+20250719 0200 HKT
+
+Naming
+** 96W2025 -> 09W WIPHA
+
+- Noted HK upper dynmic with Wind Shear (Vertical) 31kt
+- With K index 41.5
+
+[ ] Rainstorm trigger by High temp is likely happen, but not collated to 09W system.
+
+Currently
+
+- Location : 19.3°N 122.5°E
+- Max Centre Winds: 65 km/h
+- Generally NW direction
+- Min Pressure: 990
+
+- Strong Wind Quadrant seen NE 333km SE 314km NW 185km
+
+FU w/ Ordered Product on GFS and ECMWF Model
+- [lower] 850 hpa & wind
+- [lower] MSLP & 10m mean
+- [upper] X-Section
