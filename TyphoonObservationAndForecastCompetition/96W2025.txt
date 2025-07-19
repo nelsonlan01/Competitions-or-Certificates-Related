@@ -47,9 +47,9 @@ X-Section implies:
 - Noted Potential Temp (K) with wind sheared result in forcast 60 hours result.
 
 - Sea Temp 31C
-
-[ ] At Certain, T3 hoist at late on 19 Jul 2025.
-[ ] At 45%, T8NE, then T8SE (Most likely) / SW (Proper, but depends of traval of speed) at mid night, early 20 Jul. 
+Casted Implies:
+[v] At Certain, T3 hoist at late on 19 Jul 2025.
+[a] At 45%, T8NE, then T8SE (Most likely) / SW (Proper, but depends of traval of speed) at mid night, early 20 Jul. 
 
 BTW, rainstorm trigger by high temp is occured today 1115, but not collated to 96W system.
 
@@ -59,7 +59,7 @@ BTW, rainstorm trigger by high temp is occured today 1115, but not collated to 9
 20250719 0200 HKT
 
 Naming
-** 96W2025 -> 09W WIPHA
+** 96W2025 -> 09W25 WIPHA
 
 - Noted HK upper dynmic with Wind Shear (Vertical) 31kt
 - With K index 41.5
@@ -73,7 +73,7 @@ Currently
 - Generally NW direction
 - Min Pressure: 990
 
-- Strong Wind Quadrant seen NE 333km SE 314km NW 185km
+- Gale Wind Quadrant seen NE 333km SE 314km NW 185km
 
 FU w/ Ordered Product on GFS and ECMWF Model
 - [lower] 850 hpa & wind
@@ -87,5 +87,45 @@ FU w/ Ordered Product on GFS and ECMWF Model
 - T1 was issued at 2:20 a.m.
 
 - Recommended keep monitor Q6H after noon.
+
+==================
+
+20250719 1240 HKT
+
+- Noted HK upper dynmic with Wind Shear (Vertical) still at 31kt
+- but K index lower to 31.4
+Implies : 
+[ ] Risk of unstable upper dynmamic weather is decreased, into 30-40% mid prop.
+Since, 09W system is tracking toward HK, weather will dominate by 09W system, but not upper dynmamic system, investigation on such content is temp pull up.
+
+Currently (1200HKT)
+- Location : 20.3°N 119.4°E
+- Max Centre Winds: 105 km/h
+- Generally NW(N) direction
+- Min Pressure: 981
+- R34 Gale Wind Quadrant seen NE 370km SE 277km NW 240km SW 203km
+- R50 Storm force wind quadrant is not seen yet.
+
+
+FU w/ Ordered Product on GFS and ECMWF Model
+- [lower] 850 hpa & wind
+- [lower] MSLP & 10m mean
+- [upper] IR (Simulated)
+- MSLP & Precip
+- [upper] X-Section
+- Wind Field
+- Sea Temeture
+- Wave energy, height
+- Wind Hazard map
+
+- At Wind Field analysis, exceed 90km/h wind noted at the NE NW Quadrant.
+- On current runtime of GFS forcast, would make direct landfall Macao or outlier island of HK at Sunday morning.
+
+Casted Implies:
+[ ] At 65%, T8NE, then T8SE (Most likely) / SW (Proper, but depends of traval of speed) at mid night, early 20 Jul. 
+[ ] Chance of T9 was estimated ~10%.
+
+
+- FU Q6H.
 
 ==================
