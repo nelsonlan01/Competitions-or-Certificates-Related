@@ -1,0 +1,184 @@
+Low System 96W(2025) / 09W WIPHA 2025 Monitor
+---
+
+20250716 HKT 1200
+-----------------
+- Noted INVEST 96W is formed, near 13.3N 129.6E.
+- Recommended keep monitor Q12H, 1/7.
+- FU @ 20250717 0000 HKT
+=================
+
+20250717 0000 HKT
+-----------------
+- Location : 13.8N 128.4E
+- Max Centre Winds: 30kt 55km/h
+- Generally NW direction
+- Min Pressure: 998
+
+- Strong Wind Quadrant is not been seen yet
+
+- Recommended keep monitor Q12H then Q6H later 18 Jul 2025.
+- FU @ 20250718 1200 HKT
+
+Casted Implies:
+[ ] At Certain, T1 would hoist at 1800 to 2000 on Friday 18 Jul 2025.
+==================
+
+20250718 1100 HKT
+-----------------
+- Location : 17.9N 123.4E
+- Max Centre Winds: 65 km/h
+- Generally NW direction
+- Min Pressure: 990
+
+20250718 1315 HKT
+-----------------
+FU w/ Ordered Product on GFS and ECMWF Model
+- [lower] 850 hpa & wind
+- [lower] MSLP & 10m mean
+- MSLP & Precip
+- [upper] X-Section
+- [upper] IR (Simulated)
+- Sea Temeture
+- Wave energy, height
+
+X-Section implies:
+- Noted Shear is strong in current position
+- Noted Potential Temp (K) with wind sheared result in forcast 60 hours result.
+
+- Sea Temp 31C
+Casted Implies:
+[v] At Certain, T3 hoist at late on 19 Jul 2025.
+[a] At 45%, T8NE, then T8SE (Most likely) / SW (Proper, but depends of traval of speed) at mid night, early 20 Jul. 
+
+BTW, rainstorm trigger by high temp is occured today 1115, but not collated to 96W system.
+
+- FU @ 20250718 1900 HKT
+==================
+
+20250719 0200 HKT
+
+Naming
+** 96W2025 -> 09W25 WIPHA
+
+- Noted HK upper dynmic with Wind Shear (Vertical) 31kt
+- With K index 41.5
+
+[ ] Rainstorm trigger by High temp is likely happen, but not collated to 09W system.
+
+Currently
+
+- Location : 19.3°N 122.5°E
+- Max Centre Winds: 65 km/h
+- Generally NW direction
+- Min Pressure: 990
+
+- Gale Wind Quadrant seen NE 333km SE 314km NW 185km
+
+FU w/ Ordered Product on GFS and ECMWF Model
+- [lower] 850 hpa & wind
+- [lower] MSLP & 10m mean
+- [upper] X-Section
+
+
+==================
+20250719 0220 HKT
+
+- T1 was issued at 2:20 a.m.
+
+- Recommended keep monitor Q6H after noon.
+
+==================
+
+20250719 1240 HKT
+
+- Noted HK upper dynmic with Wind Shear (Vertical) still at 31kt
+- but K index lower to 31.4
+Implies : 
+[v] Risk of unstable upper dynmamic weather is decreased, into 30-40% mid prop.
+Since, 09W system is tracking toward HK, weather will dominate by 09W system, but not upper dynmamic system, investigation on such content is temp pull up.
+
+Currently (1200HKT)
+- Location : 20.3°N 119.4°E
+- Max Centre Winds: 105 km/h
+- Generally NW(N) direction
+- Min Pressure: 981
+- R34 Gale Wind Quadrant seen NE 370km SE 277km NW 240km SW 203km
+- R50 Storm force wind quadrant is not seen yet.
+
+
+FU w/ Ordered Product on GFS and ECMWF Model
+- [lower] 850 hpa & wind
+- [lower] MSLP & 10m mean
+- [upper] IR (Simulated)
+- MSLP & Precip
+- [upper] X-Section
+- Wind Field
+- Sea Temeture
+- Wave energy, height
+- Wind Hazard map
+
+- At Wind Field analysis, exceed 90km/h wind noted at the NE NW Quadrant.
+- On current runtime of GFS forcast, would make direct landfall Macao or outlier island of HK at Sunday morning.
+
+Casted Implies:
+[v] At 65%, T8NE, then T8SE (Most likely) / SW (Proper, but depends of traval of speed) at mid night, early 20 Jul. 
+[a] Chance of T9 was estimated ~10%.
+
+HKO news:
+- T3 : will issue the Strong Wind Signal, No. 3 at 2:20 p.m.
+
+
+- FU Q6H.
+
+==================
+
+20250719 2115 HKT
+
+The latest Aerodrome Forecast at the Hong Kong International Airport issued by the Hong Kong Observatory at 19:00 HKT on 19 Jul 25
+TAF VHHH 191100Z 1912/2018 03015KT 7000 FEW015 SCT025 TX30/1912Z TX28/2006Z TN26/1922Z TEMPO 1912/1916 VRB15G30KT 2000 TSRA SHRA FEW008CB SCT015 BECMG 1916/1918 36025KT TEMPO 1916/1924 02030G40KT 2000 SHRA FEW008CB SCT015 BECMG 2000/2002 08035KT TEMPO 2000/2010 11040G55KT 1500 +SHRA FEW008CB SCT015 BECMG 2010/2012 13025KT=
+
+FU w/ Ordered Product on GFS and ECMWF Model
+- [lower] 850 hpa & wind
+- [lower] MSLP & 10m mean
+- [upper] IR (Simulated)
+- MSLP & Precip
+- [upper] X-Section
+- Wind Field
+- Wave formation chart
+- Chart datum @ HK; 
+- Tide Tables @ HK; 
+- Radar imagery 64, 128, 256km @ HK
+- Radar imagery @ China
+- Radar imagery @ TW
+- TAF
+
+Currently 
+- Location : 20.5°N 118.9°E
+- Max Centre Winds: 110 km/h
+- Generally NW(W) direction
+- Min Pressure: 980
+
+Wind Field analysis:
+- R34 Gale Wind Quadrant seen NE 277km SE 185km NW 194km SW 222km
+- R50 Storm force wind quadrant seen at N 55.5km
+- R64 Hurricane force wind quadrant is not seen yet.
+
+Radar imagery:
+- 2 of Squall line structure of outer TCR was noted, one was pass hk at 2000
+- part of W Eye wall seen in 256 radar, typical structure.
+
+X-Section:
+- Potential temp K map structure is likely sheared.
+- RH in upper amo can be reason of unstable potential temp.
+
+HKO news:
+- T8 : will issue the Gale or Storm Signal, No. 8 at 12:20 a.m. tomorrow (20 Jul 2025).
+
+Casted Implies:
+- [ ] Sea will become phenomenal at arround 2 am to 6 am, with forcast exceed 2.5m wave and with swell.
+- [ ] Chance of T9 was estimated ~25%, would at worst estimation is on 0600 20 Jul 2025.
+- [ ] Chance of T10 was estimated <10%.
+
+===========
+
