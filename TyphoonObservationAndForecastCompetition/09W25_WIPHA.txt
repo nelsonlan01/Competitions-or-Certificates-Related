@@ -176,9 +176,49 @@ HKO news:
 - T8 : will issue the Gale or Storm Signal, No. 8 at 12:20 a.m. tomorrow (20 Jul 2025).
 
 Casted Implies:
-- [ ] Sea will become phenomenal at arround 2 am to 6 am, with forcast exceed 2.5m wave and with swell.
-- [ ] Chance of T9 was estimated ~25%, would at worst estimation is on 0600 20 Jul 2025.
-- [ ] Chance of T10 was estimated <10%.
+- [v] Sea will become phenomenal at arround 2 am to 6 am, with forcast exceed 2.5m wave and with swell.
+- [v] Chance of T9 was estimated ~25%, would at worst estimation is on 0600 20 Jul 2025.
+- [v] Chance of T10 was estimated <10%.
+===========
+
+20250720
+
+HKO news:
+
+0720 Increasing Gale or Storm Signal, No. 9Tropical Cyclone Warning Signal
+0920 Hurricane Signal, No. 10Tropical Cyclone Warning Signal
 
 ===========
 
+20250720 1200 HKT
+
+HKO news:
+The Hurricane Signal, No. 10 is expected to remain in force early this afternoon.
+
+
+Currently 
+- Location : 21.6°N 114.1°E
+- Max Centre Winds: 155 km/h
+- Generally NW(W) direction
+- Min Pressure: 970
+
+FU w/ Ordered Product on GFS and ECMWF 
+- MSLP & Precip
+- Wind Field
+- Wave formation chart
+- Chart datum @ HK; 
+- Tide Tables @ HK; 
+- Radar imagery 64, 128, 256km @ HK
+- TAF
+
+Wind Field:
+- H- Wind FieldK is currently covered in both R34 abd R50 quadrant
+- R64 Hurricane force wind quadrant 37km N
+
+Radar imagery 64 shown typical eyewall structure of system. Intensed rain mainly distribute on S side.
+
+Casted Implies:
+- [ ] Wind will remain gale force, from NE first then SE, the duration would be last for tonight.
+- [ ] then decrease to T8SE (Most likely) would be at evening today arround 1600 to 1900.
+
+===========
