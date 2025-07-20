@@ -218,7 +218,18 @@ Wind Field:
 Radar imagery 64 shown typical eyewall structure of system. Intensed rain mainly distribute on S side.
 
 Casted Implies:
-- [ ] Wind will remain gale force, from NE first then SE, the duration would be last for tonight.
-- [ ] then decrease to T8SE (Most likely) would be at evening today arround 1600 to 1900.
+- [v] Wind will remain gale force, from NE first then SE, the duration would be last for tonight.
+- [v] then decrease to T8SE (Most likely) would be at evening today arround 1600 to 1900.
 
 ===========
+20250720 1940 HKT
+
+- T3 replaced T8SE.
+
+20250720 2000 HKT
+
+- As system moving further away and weakening, no further investigation and FU goes on.
+
+============
+END OF SUBMISSION
+============
