@@ -1,0 +1,36 @@
+20250805 0200 HKT
+- Noted abnormally high, mid-air disturbance
+- with a high value of wind shear
+- Rainstorm lowers into amber.
+
+(sleep)
+
+20250805 0500 HKT
+
+MBST AND SIG WS RWY 25C. MOD TURB FCST RWY 25C.
+SPECIAL VHHH 042136Z WIND 270/19KT VIS 2100M HVY TSRA CLD FEW 1000FT FEW CB 1500FT SCT 2500FT T25 DP24 QNH 1004HPA TS TREND TEMPO 300/25KT MAX35 VIS 1500M MOD TSRA HVY SHRA=
+
+* Microburst and significant windshear were noted on runway 25C.
+
+
+20250805 1200 HKT
+- Wind shear profiles decrease to11kt.
+- Rainstorm is black currently.
+
+TAF VHHH 050500Z 0506/0612 22015KT 9999 FEW010 SCT020 TX28/0508Z TX30/0606Z TN26/0522Z TEMPO 0506/0508 VRB15G25KT 2500 TSRA SHRA FEW008CB SCT015 TEMPO 0508/0512 3000 SHRA FEW010CB SCT020 TEMPO 0515/0518 24015G25KT 2500 TSRA SHRA FEW008CB SCT015 TEMPO 0518/0522 3000 SHRA FEW010CB SCT020 TEMPO 0522/0601 24015G25KT 2500 TSRA SHRA FEW008CB SCT015=
+
+**K Index (K 指數) :	38.50	
+Lifted index (抬升指數) :	-0.62	
+**Totals totals index (總指數) :	44.10	
+***Convective Inhibition (對流抑制指數) :	-92.90	
+Vertical Wind Shear (垂直風切變) (925-200 hPa 百帕):	11 節	
+總計 :	
+
+
+其他穩定度指數 - 隱藏
+指數	數值	不穩定度
+Showalter index (沙瓦特指數) :	-2.10	
+**SWEAT index (劇烈天氣威脅指數) :	326.78	
+Convective Available Potential Energy (對流可用位能) :	96.61	
+Bulk Richardson Number (粗里查森數) :	3.71	
+對流可用位能位置: 422.31 百帕至 715.59 百帕
