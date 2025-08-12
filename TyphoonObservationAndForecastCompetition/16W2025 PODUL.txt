@@ -1,0 +1,37 @@
+16W2025 PODUL
+============
+
+20250812 HKT 1600
+-------------
+- Noted System 16W2025 is located 21.4N, 126.6E.
+- Minimum Central Pressure: 981 mb
+
+Ordered Product on GFS and ECMWF Model:
+- [lower] 850 hpa & wind
+- [lower] MSLP & 10m mean
+- [upper] X-Section
+- MSLP & Precip
+- Wind Field
+- Wind Hazard map (Prelim)
+- 750hpa flow (Prelim, Steering Flow)
+
+Implies from Wind Field, 850, 10m mean, MSLP & Precip:
+- Significant rainfall at 14 morning to noon is expected in East of HK.
+- Storm Wind quadrant seen from N, NE; radius of 30kt.
+- Strong Gale Wind is mainly on SE quadrant, with 115 kt.
+
+K Index (K 指數) :	40.90	
+Lifted index (抬升指數) :	-5.65	
+Totals totals index (總指數) :	46.20	
+Convective Inhibition (對流抑制指數) :	-0.36	
+Vertical Wind Shear (垂直風切變) (925-200 hPa 百帕):	46 節	
+
+Casted Implies of Forefasting:
+- [ ] T1 estimated would issue at noon 13 AUG 2025, at curatinly.
+- [ ] T3 is most likely morning 14 AUG 2025, with mid chance.
+
+- [ ] T8 is NOT considered at the CURRENTLY forecast, unless proposed southerly track, if 750hpa or a weakened subtropical high.
+
+Next FU 0.5/7 (12 hours)
+
+------------------------

@@ -4,7 +4,7 @@
 - Rainstorm lowers into amber.
 
 (sleep)
-
+------------
 20250805 0500 HKT
 
 MBST AND SIG WS RWY 25C. MOD TURB FCST RWY 25C.
@@ -12,7 +12,7 @@ SPECIAL VHHH 042136Z WIND 270/19KT VIS 2100M HVY TSRA CLD FEW 1000FT FEW CB 1500
 
 * Microburst and significant windshear were noted on runway 25C.
 
-
+---------------
 20250805 1200 HKT
 - Wind shear profiles decrease to11kt.
 - Rainstorm is black currently.
@@ -34,3 +34,39 @@ Showalter index (沙瓦特指數) :	-2.10
 Convective Available Potential Energy (對流可用位能) :	96.61	
 Bulk Richardson Number (粗里查森數) :	3.71	
 對流可用位能位置: 422.31 百帕至 715.59 百帕
+
+------------------
+20250805 2330 HKT
+- Noted abnormally high, mid-air disturbance  (Lifted index :	-5.12)
+- with a high value of wind shear (Vertical Wind Shear 39 kt)
+- Rainstorm lowers into amber again 2055, since cancel at 1815.
+- SWEAT index (Severe Weather Threat Index) : 405.5 (Severe to Tornadic possible)
+
+The latest Aerodrome Forecast at the Hong Kong International Airport issued by the Hong Kong Observatory at 22:00 HKT on 05 Aug 25
+
+TAF VHHH 051400Z 0515/0621 20015KT 9999 FEW010 SCT020 TX31/0606Z TN26/0522Z TEMPO 0515/0517 24025G35KT 2500 TSRA SHRA FEW008CB SCT015 TEMPO 0517/0519 3000 SHRA FEW010CB SCT020 TEMPO 0519/0601 24020G30KT 2500 TSRA SHRA FEW008CB SCT015 TEMPO 0601/0604 3500 SHRA FEW010CB SCT020=
+
+
+重要穩定度指數	數值	不穩定度
+* K Index (K 指數) :	37.90	
+**** Lifted index (抬升指數) :	-5.12	
+** Totals totals index (總指數) :	47.80	
+Convective Inhibition (對流抑制指數) :	0.00	
+**** Vertical Wind Shear (垂直風切變) (925-200 hPa 百帕):	39 節	
+總計 :	
+
+
+其他穩定度指數 - 隱藏
+指數	數值	不穩定度
+** Showalter index (沙瓦特指數) :	-4.75	
+**** SWEAT index (劇烈天氣威脅指數) :	405.54	
+*** Convective Available Potential Energy (對流可用位能) :	2552.46	
+** Bulk Richardson Number (粗里查森數) :	64.15	
+
+對流可用位能位置: 123.89 百帕至 944.09 百帕
+
+Reference:
+[1] 45004 Kings Park Observations at 12Z 05 Aug 2025 (2025) University of Wyoming - Radiosonde Data. 2025 [online]. Available from: https://weather.uwyo.edu/cgi-bin/sounding?region=seasia&TYPE=TEXT%3ALIST&YEAR=2025&MONTH=08&FROM=0512&TO=0512&STNM=45004 [Accessed 5 August 2025].
+
+-------
+‌
