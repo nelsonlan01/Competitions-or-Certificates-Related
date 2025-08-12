@@ -4,6 +4,7 @@
 20250812 HKT 1600
 -------------
 - Noted System 16W2025 is located 21.4N, 126.6E.
+- Minimum Central Pressure: 981 mb
 
 Ordered Product on GFS and ECMWF Model:
 - [lower] 850 hpa & wind
