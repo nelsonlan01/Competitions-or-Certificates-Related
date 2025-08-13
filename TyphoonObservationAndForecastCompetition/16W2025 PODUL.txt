@@ -35,3 +35,45 @@ Casted Implies of Forefasting:
 Next FU 0.5/7 (12 hours)
 
 ------------------------
+
+20250813 HKT 1700
+-------------
+Ordered Product on GFS and ECMWF Model:
+- Taiwan adjacent Sea Radar Images
+- [lower] 850 hpa & wind
+- [lower] MSLP & 10m mean
+- [upper] X-Section
+- MSLP & Precip
+- Wind Field
+- VHHH TAF
+
+
+Foreign Radar Images Implies:
+- Gradually weakened, the eye structure is incomplete due to landfall.
+- Convective rainfall hit S of Taiwan, exceeding 300mm.
+
+Wind Field Analysis Implies:
+- R34 95kt @ NE NW
+- R50 50kt @ NE NW SE
+- R64 35kt @ NE NW
+
+Currently
+- T1 Signal
+- 1700 HKT, 23.3N 119.7E, 28km @ NWW direction.
+
+TAF VHHH
+
+TAF VHHH 130800Z 1309/1415 24010KT 9999 FEW015 TX32/1309Z TX29/1406Z TN26/1322Z TEMPO 1310/1314 36025G35KT 2000 TSRA SHRA FEW008CB SCT020 TEMPO 1314/1316 3500 SHRA FEW010CB SCT020 TEMPO 1320/1402 24020G30KT 1500 TSRA +SHRA FEW008CB SCT020 TEMPO 1402/1408 22015G25KT 2500 +SHRA FEW010CB SCT020 BECMG 1406/1408 18010KT TEMPO 1408/1414 20015G25KT 3000 SHRA FEW010CB SCT020=
+
+
+- Strong wind from WSW direction, exceeded 30kt/h (24020G30KT) with Thunderstorm with moderate rain, Heavy showers of rain are forecast in the morning 02 UTC 14 AUG (1000HKT).
+
+
+Casted Implies of Forefasting:
+- [ ] T3 is most likely morning 14 AUG 2025, with low - mid chance (38-45%).
+- [ ] T8 is NOT considered.
+- [ ] Heavy rainfall, at morning to noon 14 AUG, would exceed 50mm will the East of HK.
+
+
+
+------------------------
