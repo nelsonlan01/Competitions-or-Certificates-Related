@@ -37,3 +37,32 @@ Referencing:  <br>
 
 
 -------------------
+After July 10, 2026, at 15:00 UTC, Typhoon Bavi (09W) entered a stage of rapid asymmetric weakening and structural collapse.<br>
+
+【Comparison】<br>
+•	VMAX: 99 -> 81 kts.<br>
+•	Minimum Central Pressure (MSLP): 950.9 hPa –> 961.5 hPa<br>
+•	Center Position: Moved northwestward from (19.5°N, 128.5°E) to approximately (23.2°N, 125.6°E).<br>
+•	RMW: Remained at 18 nmi.<br>
+<br>
+【Shrinking Wind Radii】 <br>
+As the typhoon weakened noticeably:<br>
+•	64-knot Wind Radius (R64) quadrants:<br>
+o	Northeast (NE): 145 → 95 (shrank)<br>
+o	Southeast (SE): 80 → 20 (severe shrinkage; strong winds in the SE quadrant almost vanished)<br>
+o	Southwest (SW): 100 → 90<br>
+o	Northwest (NW): 105 → 95<br>
+•	R50 quadrants: Shrank across all quadrants, with the Southeast quadrant showing the most severe reduction (140 → 120).<br>
+【Visual Features】<br>
+•	Increased Asymmetry<br>
+•	Upper-Level Dry Air Impact<br>
+<br>
+Referencing:  <br>
+<img width="975" height="674" alt="image" src="https://github.com/user-attachments/assets/d01fae38-6967-4ab0-85fa-e47af98b910b" />
+<img width="975" height="961" alt="image" src="https://github.com/user-attachments/assets/7d5f0a76-aa0f-46bf-bc3c-15ff3da37d2e" />
+<br>
+ 【Follow Up Plan】<br>
+•	Next FU on 20260711 1500<br>
+ <br>
+-------------------
+
